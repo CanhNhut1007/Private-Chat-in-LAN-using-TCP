@@ -1,0 +1,10 @@
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\bin\Release\Client.exe.config
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\bin\Release\Client.exe
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\bin\Release\Client.pdb
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.About.resources
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.Client.resources
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.Connect_information.resources
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.Properties.Resources.resources
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.csproj.GenerateResource.Cache
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.exe
+E:\Github\Private Chat LAN\Private-Chat-in-LAN-using-TCP\Client\obj\Release\Client.pdb
